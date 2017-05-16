@@ -12,7 +12,7 @@ I used the LearnOpenGL kit, which you can find here: https://learnopengl.com/. I
   cmake ../.
   make -j8
 
-To use my source file, you have to add the folder "8.lava_viewer" in "src/1.getting_started" and modify the file CMakeLists.txt as following:
+To use my source files, you have to add the folder "8.lava_viewer" in "src/1.getting_started/" and modify the file CMakeLists.txt as following:
 
   Add "8.lava_viewer" after "7.camera" (line 71)
 
