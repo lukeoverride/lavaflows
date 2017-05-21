@@ -19,3 +19,5 @@ To use my source files, you have to add the folder "8.lava_viewer" in "src/1.get
 Since I used absolute paths in my code, please also make sure that you point to existing files.
 
 Note: most of data allocation code is in the main function. This is not a good practice, but I was obliged because using subfunctions I experienced insufficient-memory errors. Probably OpenGL always copies function arguments. If you are running your code in a more powerful machine, you can move that code.
+
+Developed in 2016.
