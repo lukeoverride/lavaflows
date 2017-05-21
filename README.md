@@ -5,7 +5,7 @@ Lava flows visualization on a real topographic surface. It is an interactive 3D 
 Compiling:
 I used the LearnOpenGL kit, which you can find here: https://learnopengl.com/. It uses GLFW and other libraries, which are included in the kit. You can download, compile and run the examples following the tutorial on the website and in the README included in the kit. In particular, these are the main instructions:
 
-  git clone --recursive [https://github.com/stephane-lb/LearnOpenGL.git
+  git clone --recursive [https://github.com/stephane-lb/LearnOpenGL.git]
   cd LearnOpenGL
   mkdir build
   cd build
