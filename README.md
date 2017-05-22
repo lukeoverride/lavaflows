@@ -1,6 +1,6 @@
 # 3D lava flow viewer
 
-Lava flows visualization on a real topographic surface. It is an interactive 3D application which displays a topographic surface and a lava flow on it. The application is general, allowing the visualization of datasets of any size. The data is read from files. It is possible to display data from different points of view and navigate in the scene.
+Lava flows visualization on a real topographic surface. It is an interactive 3D application developed in GLSL which displays a topographic surface and a lava flow on it. The application is general, allowing the visualization of datasets of any size. The data is read from files. It is possible to display data from different points of view and navigate in the scene.
 
 Compiling:
 I used the LearnOpenGL kit, which you can find here: https://learnopengl.com/. It uses GLFW and other libraries, which are included in the kit. You can download, compile and run the examples following the tutorial on the website and in the README included in the kit. In particular, these are the main instructions:
